@@ -1,0 +1,28 @@
+.box {
+  width: 300px;
+  height: 200px;
+  background-color: #f0f0f0;
+  border: 2px solid #333;
+  font-size: 18px;
+  text-align: center;
+}
+
+.padding-example {
+  padding: 20px; /* Define um padding de 20px em todos os lados */
+}
+
+.padding-top-example {
+  padding-top: 10px; /* Define um padding de 10px na parte superior */
+}
+
+.padding-right-example {
+  padding-right: 15px; /* Define um padding de 15px à direita */
+}
+
+.padding-bottom-example {
+  padding-bottom: 25px; /* Define um padding de 25px na parte inferior */
+}
+
+.padding-left-example {
+  padding-left: 30px; /* Define um padding de 30px à esquerda */
+}

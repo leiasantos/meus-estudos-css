@@ -1,0 +1,39 @@
+    /* Exemplo caption-side */
+    table caption {
+      caption-side: bottom;
+      font-size: 20px;
+      font-weight: bold;
+  }
+
+  /* Exemplo table-layout */
+  .table-layout-example {
+      table-layout: fixed;
+      width: 100%;
+  }
+
+  /* Exemplo border-collapse */
+  .border-collapse-example {
+      border-collapse: collapse;
+      width: 100%;
+  }
+
+  /* Exemplo border-spacing */
+  .border-spacing-example {
+      border-collapse: separate;
+      border-spacing: 10px;
+      width: 100%;
+  }
+
+  /* Exemplo empty-cells */
+  .empty-cells-example {
+      empty-cells: hide;
+  }
+
+  th, td {
+      border: 1px solid #ddd;
+      padding: 8px;
+  }
+
+  th {
+      background-color: #f4f4f4;
+  }

@@ -1,0 +1,29 @@
+      /* Exemplo de content */
+      .content-example::before {
+        content: "Início: ";
+        color: green;
+    }
+
+    .content-example::after {
+        content: " Fim!";
+        color: red;
+    }
+
+    /* Exemplo de quotes */
+    q {
+        quotes: "“" "”" "‘" "’";
+    }
+
+    /* Exemplo de counter-reset e counter-increment */
+    ol {
+        counter-reset: section;
+    }
+
+    ol li {
+        counter-increment: section;
+    }
+
+    ol li::before {
+        content: "Seção " counter(section) ". ";
+        font-weight: bold;
+    }

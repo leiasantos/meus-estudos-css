@@ -1,0 +1,28 @@
+.box {
+  width: 300px;
+  height: 200px;
+  background-color: #91d2ec;
+  border: 2px solid #333;
+  font-size: 18px;
+  text-align: center;
+}
+
+.margin-example {
+  margin: 20px; /* Define uma margem de 20px em todos os lados */
+}
+
+.margin-top-example {
+  margin-top: 10px; /* Define uma margem de 10px na parte superior */
+}
+
+.margin-right-example {
+  margin-right: 15px; /* Define uma margem de 15px à direita */
+}
+
+.margin-bottom-example {
+  margin-bottom: 25px; /* Define uma margem de 25px na parte inferior */
+}
+
+.margin-left-example {
+  margin-left: 30px; /* Define uma margem de 30px à esquerda */
+}

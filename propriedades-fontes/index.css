@@ -1,0 +1,23 @@
+p.font-family {
+  font-family: 'Courier New', monospace;
+}
+
+p.font-style {
+  font-style: oblique;
+}
+
+p.font-variant {
+  font-variant: small-caps;
+}
+
+p.font-weight {
+  font-weight: 700;
+}
+
+p.font-size {
+  font-size: 24px;
+}
+
+p.font {
+  font: italic bold 20px Georgia, serif;
+}

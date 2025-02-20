@@ -1,0 +1,55 @@
+.box {
+  width: 200px;
+  height: 100px;
+  background-color: lightblue;
+  border: 2px solid #333;
+  font-size: 18px;
+  text-align: center;
+  margin: 20px;
+}
+
+.static {
+  position: static;
+  background-color: lightgray;
+}
+
+.relative {
+  position: relative;
+  top: 20px;
+  left: 20px;
+  background-color: lightgreen;
+}
+
+.absolute {
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  background-color: lightcoral;
+}
+
+.fixed {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  background-color: lightyellow;
+}
+
+.top {
+  top: 20px;
+  background-color: lightcoral;
+}
+
+.right {
+  right: 20px;
+  background-color: lightgreen;
+}
+
+.bottom {
+  bottom: 20px;
+  background-color: lightyellow;
+}
+
+.left {
+  left: 20px;
+  background-color: lightpink;
+}

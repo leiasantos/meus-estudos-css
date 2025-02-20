@@ -1,0 +1,21 @@
+.red-color {
+  color: red; /* Nome da cor */
+}
+.hex-color {
+  color: #FF5733; /* Cor hexadecimal */
+}
+.rgb-color {
+  color: rgb(255, 87, 51); /* Cor RGB */
+}
+.rgba-color {
+  color: rgba(255, 87, 51, 0.5); /* Cor RGBA */
+}
+.hsl-color {
+  color: hsl(9, 100%, 60%); /* Cor HSL */
+}
+.hsla-color {
+  color: hsla(9, 100%, 60%, 0.5); /* Cor HSLA */
+}
+.hex-alpha-color {
+  color: #FF573380; /* Cor hexadecimal com transparência */
+}

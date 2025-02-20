@@ -1,0 +1,95 @@
+.box {
+  width: 300px;
+  height: 200px;
+  background-color: #f0f0f0;
+  border: 5px solid #333; /* Usando a propriedade border */
+  border-top-width: 10px; /* Largura da borda superior */
+  border-right-width: 15px; /* Largura da borda direita */
+  border-bottom-width: 20px; /* Largura da borda inferior */
+  border-left-width: 25px; /* Largura da borda esquerda */
+  border-top-color: red; /* Cor da borda superior */
+  border-right-color: green; /* Cor da borda direita */
+  border-bottom-color: blue; /* Cor da borda inferior */
+  border-left-color: purple; /* Cor da borda esquerda */
+  border-style: dashed; /* Estilo de borda para todas as bordas */
+  border-radius: 20px; /* Bordas arredondadas */
+  margin: 10px;
+}
+
+.solid {
+  text-align: center;
+  border: 5px solid black;
+  width: 400px;
+  height: 30px;
+}
+
+.dashed {
+  text-align: center;
+  border: 5px dashed red;
+  width: 400px;
+  height: 30px;
+}
+
+.dotted {
+  text-align: center;
+  border: 5px dotted green;
+  width: 400px;
+  height: 30px;
+}
+
+.double {
+  text-align: center;
+  border: 5px double blue;
+  width: 400px;
+  height: 30px;
+}
+
+.groove {
+  text-align: center;
+  border: 5px groove orange;
+  width: 400px;
+  height: 30px;
+}
+
+.ridge {
+  text-align: center;
+  border: 5px ridge purple;
+  width: 400px;
+  height: 30px;
+}
+
+.inset {
+  text-align: center;
+  border: 5px inset brown;
+  width: 400px;
+  height: 30px;
+}
+
+.outset {
+  text-align: center;
+  border: 5px outset pink;
+  width: 400px;
+  height: 30px;
+}
+
+.none {
+  text-align: center;
+  border: none;
+  width: 400px;
+  height: 30px;
+}
+
+.hidden {
+  text-align: center;
+  border: hidden;
+  width: 400px;
+  height: 30px;
+}
+
+.box-container {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+ 
+}

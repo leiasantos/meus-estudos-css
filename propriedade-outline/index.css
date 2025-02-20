@@ -1,0 +1,19 @@
+.example {
+  margin: 20px;
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+.outline-example {
+  outline-width: 4px;
+  outline-style: solid;
+  outline-color: blue;
+}
+
+.outline-all {
+  outline: 2px dashed red;
+}
+
+.speak-header-example {
+  speak-header: always;
+}

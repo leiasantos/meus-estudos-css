@@ -1,0 +1,43 @@
+       /* Exemplo color */
+       .color-example {
+        color: red;
+    }
+
+    /* Exemplo background-color */
+    .background-color-example {
+        background-color: yellow;
+    }
+
+    /* Exemplo background-image */
+    .background-image-example {
+        background-image: url('image.png');
+        background-repeat: no-repeat;
+        height: 400px;
+    }
+
+    /* Exemplo background-repeat */
+    .background-repeat-example {
+        background-image: url('image.png');
+        background-repeat: repeat;
+        height: 100px;
+    }
+
+    /* Exemplo background-attachment */
+    .background-attachment-example {
+        background-image: url('image.png');
+        background-attachment: fixed;
+        height: 200px;
+    }
+
+    /* Exemplo background-position */
+    .background-position-example {
+        background-image: url('image.png');
+        background-position: center center;
+        height: 200px;
+    }
+
+    /* Exemplo background */
+    .background-example {
+        background: #ff5733 url('image.png') no-repeat fixed center;
+        height: 200px;
+    }

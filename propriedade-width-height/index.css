@@ -1,0 +1,73 @@
+.box {
+  border: 2px solid #333;
+  color: #fff;
+  font-size: 18px;
+  margin: 10px;
+}
+
+/* width */
+.width-example {
+  width: 200px;
+  background-color: lightblue;
+  padding: 20px;
+}
+
+/* min-width */
+.min-width-example {
+  min-width: 150px;
+  background-color: lightcoral;
+  padding: 20px;
+}
+
+/* max-width */
+.max-width-example {
+  max-width: 500px;
+  background-color: lightgreen;
+  padding: 20px;
+}
+
+/* height */
+.height-example {
+  height: 200px;
+  background-color: lightyellow;
+  padding: 20px;
+}
+
+/* min-height */
+.min-height-example {
+  min-height: 100px;
+  background-color: lightpink;
+  padding: 20px;
+}
+
+/* max-height */
+.max-height-example {
+  max-height: 300px;
+  background-color: lightgray;
+  padding: 20px;
+  overflow: auto;
+}
+
+/* line-height */
+.line-height-example {
+  line-height: 1.5;
+  background-color: lightseagreen;
+  padding: 20px;
+}
+
+/* vertical-align */
+.container {
+  line-height: 50px;
+  height: 50px;
+  background-color: lightsteelblue;
+}
+
+.vertical-align-example {
+  display: inline-block;
+  vertical-align: middle;
+  background-color: lightgoldenrodyellow;
+  width: 100px;
+  height: 30px;
+  text-align: center;
+  line-height: 30px;
+}

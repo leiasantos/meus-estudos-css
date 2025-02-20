@@ -1,0 +1,44 @@
+.box {
+  width: 200px;
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
+  margin: 10px;
+  border: 2px solid #333;
+  font-size: 18px;
+  color: #fff;
+}
+
+.float-left {
+  float: left;
+  background-color: lightcoral;
+}
+
+.float-right {
+  float: right;
+  background-color: lightgreen;
+}
+
+.clear-both {
+  clear: both;
+  background-color: lightblue;
+}
+
+.z-index-example {
+  position: relative;
+  background-color: lightyellow;
+  z-index: 10;
+}
+
+.z-index-background {
+  position: relative;
+  background-color: lightgray;
+  z-index: 5;
+}
+
+.rtl-text {
+  direction: rtl;
+  background-color: lightpink;
+  width: 300px;
+  padding: 10px;
+}

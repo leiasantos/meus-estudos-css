@@ -1,0 +1,29 @@
+    /* Relativas */
+    .em-example {
+      font-size: 2em; /* 2 vezes o tamanho da fonte do elemento pai */
+  }
+
+  .rem-example {
+      font-size: 1.5rem; /* 1.5 vezes o tamanho da fonte do elemento raiz */
+  }
+
+  .vw-example {
+      font-size: 5vw; /* 5% da largura da tela */
+  }
+
+  .vh-example {
+      font-size: 5vh; /* 5% da altura da tela */
+  }
+
+  .percent-example {
+      width: 50%; /* 50% da largura do elemento pai */
+  }
+
+  /* Absolutas */
+  .px-example {
+      width: 200px; /* Largura fixa de 200px */
+  }
+
+  .cm-example {
+      width: 10cm; /* Largura de 10 centímetros */
+  }

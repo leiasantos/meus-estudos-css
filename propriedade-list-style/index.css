@@ -1,0 +1,20 @@
+       /* Exemplo list-style */
+       .list-style-example {
+        list-style: circle inside;
+    }
+
+    /* Exemplo list-style-image */
+    .list-style-image-example {
+        list-style-image: url('https://www.iconarchive.com/download/i10830/google/noto-emoji-animals-nature/22215-dog.ico');
+  
+    }
+
+    /* Exemplo list-style-type */
+    .list-style-type-example {
+        list-style-type: square;
+    }
+
+    /* Exemplo list-style-position */
+    .list-style-position-example {
+        list-style-position: inside;
+    }
