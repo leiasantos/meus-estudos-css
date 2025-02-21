@@ -1,0 +1,27 @@
+p.text-indent {
+  text-indent: 40px;
+}
+
+p.text-align {
+  text-align: center;
+}
+
+p.text-decoration {
+  text-decoration: line-through;
+}
+
+p.letter-spacing {
+  letter-spacing: 3px;
+}
+
+p.word-spacing {
+  word-spacing: 10px;
+}
+
+p.text-transform {
+  text-transform: capitalize;
+}
+
+p.white-space {
+  white-space: nowrap;
+}
